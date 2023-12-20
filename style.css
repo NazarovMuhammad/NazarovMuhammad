@@ -121,22 +121,21 @@ a{
     margin-left: 15px;
 }
 .c5i5{
-    display: flex;
-    flex-wrap: nowrap;
-    align-content: space-around;
+  
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: space-around;
 
 }
 .c5i5 p{
     background-color: gray;
     color: white;
-   margin-left:3px;
-   margin-right: 3px;
-    border: 1px solid gray;
-    width: 100px;
-    height: 10px;
+   
+    
+    
 }
 
-.t3{
+.ccc3{
     background-color: black;
+
 }
-    
